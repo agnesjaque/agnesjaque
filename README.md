@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/agnesjaque">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agnesjaque&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agnesjaque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" />
+</p>
 </div>
